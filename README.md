@@ -1,6 +1,6 @@
-## Mall Customer Segmentation
+# Mall Customer Segmentation
 
-# Table Of Contents
+## Table Of Contents
 - Abstract
 - Introduction
 - Existing Model
