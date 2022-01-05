@@ -1,5 +1,5 @@
 # Customer Segmentation
-<p style="color:red;">I am red</p>
+
 ## Table Of Contents
 - Abstract
 - Introduction
