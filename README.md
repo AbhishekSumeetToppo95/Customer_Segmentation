@@ -16,7 +16,7 @@ the number of clusters and at last we visualize the data
 
 
 ## Introduction
-- Nowadays the competition is vast and lot of technologies came into
+- Now a days the competition is vast and lot of technologies came into
   account for effective growth and revenue generation For every business the
   most important component is data With the help of grouped or ungrouped
   data, we can perform some operations to find customer interests
