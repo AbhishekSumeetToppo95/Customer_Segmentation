@@ -53,18 +53,6 @@ our problem statement we will use K Means Clustering which groups the data
 into different clusters based on their similar characteristics And then we will
 visualize the data
 
-## System Architecture
-- Initially we will see the dataset and then we will perform exploratory data
-  analysis which deals with the missing data, duplicates values and null values
-  And then we will deploy our algorithm k means clustering which is
-  unsupervised learning in machine learning
-
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-  
-- As in order to find the no of clusters we use elbow method where distance
-  will be calculate through randomly chosen centres and repeat it until there is
-  no change in cluster centres Thereafter we will analyse the data through
-  data visualization Finally we will get the outcome.
 
 ## Methodology
 - First of all we will import all the necessary libraries ( NumPy, Seaborn,
