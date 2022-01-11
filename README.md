@@ -1,15 +1,5 @@
 # Customer Segmentation
 
-## Table Of Contents
-- Abstract
-- Introduction
-- Existing Model
-- Proposed Method
-- System Architecture
-- Methodology
-- Implementation
-- Conclusion
-
 ## Abstract
 Effective decisions are mandatory for any company to generate good
 revenue In these days competition is huge and all companies are moving
@@ -89,10 +79,3 @@ visualize the data
 - Finally, we will visualize our data using M atplot, which concludes the
   customers divided into groups who are similar to each other on their group.
 
-## Implementation
-- Importing Libraries
-
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-- Overview Of Dataset. This Mall_Customer dataset contains 200 ro ws and 5 columns 
-- 
