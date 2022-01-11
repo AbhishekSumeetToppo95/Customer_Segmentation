@@ -64,6 +64,6 @@ visualize the data
 - We will deploy our model algorithm K Means Clustering, which divides the
   data into group of clusters based on similar characteristics To find number of
   clusters we will use elbow method.
-- Finally, we will visualize our data using M atplot, which concludes the
+- Finally, we will visualize our data using Matplot, which concludes the
   customers divided into groups who are similar to each other on their group.
 
